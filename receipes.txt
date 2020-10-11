@@ -4,5 +4,5 @@ welcome to teslusko kitchen
 kheer 
 pasta
 
-edited from github
-edited in local with some changes for the feature
+edited from remote
+
